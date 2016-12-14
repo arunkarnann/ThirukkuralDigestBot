@@ -1,0 +1,1 @@
+worker: python telegramTest.py --log-file -
