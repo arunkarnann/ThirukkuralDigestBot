@@ -3,4 +3,5 @@ A simple thirukkural bot on Telegram Bot Platform that send you a daily digest o
 
 This bot is deployed on Heroku.
 
+[Chat with Bot here](https://t.me/thirukuralbot)
 
